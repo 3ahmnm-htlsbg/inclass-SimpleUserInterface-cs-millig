@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 152454363}
   - component: {fileID: 152454362}
   m_Layer: 5
-  m_Name: Text (1)
+  m_Name: Counter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -493,7 +493,7 @@ GameObject:
   - component: {fileID: 841522893}
   - component: {fileID: 841522892}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: Button_counter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1053,7 +1053,7 @@ GameObject:
   - component: {fileID: 1554235227}
   - component: {fileID: 1554235226}
   m_Layer: 5
-  m_Name: Text_result
+  m_Name: Result
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
