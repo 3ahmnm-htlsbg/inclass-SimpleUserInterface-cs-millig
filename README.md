@@ -1,28 +1,35 @@
-# Unity2019114f1-2D-Template
+# inclass-SimpleUserInterface-cs-millig
 
 ### Project description: 
-Introduction/Project summary 
++ create a GUI in Unity
++ write a script for buttons
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
++ macOS Mojave
++ Unity 2019.1.14f1
++ Visual Studio Code 1.41.1
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL (refRes: 1920x780)
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+<img src="./Screenshots/simpleUserInterface_millig.jpg" width="500">
+</div>
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+##Necessary setup/execution steps:
+none
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template 
 
 ### Project state: 
-incl. progress in percent
+TODO
 
 ### Limitations: 
+none 
 
 ### Lessons Learned: 
++ revision of writing a script 
 
-Copyright by you :)
+Copyright by millig
