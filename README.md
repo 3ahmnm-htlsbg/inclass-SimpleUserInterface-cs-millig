@@ -17,7 +17,7 @@ WebGL (refRes: 1920x780)
 <img src="./Screenshots/simpleUserInterface_millig.jpg" width="500">
 </div>
 
-##Necessary setup/execution steps:
+### Necessary setup/execution steps:
 none
 
 ### Third party material: 
